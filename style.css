@@ -105,6 +105,9 @@ body {
 }
 footer{
   text-align: center;
+  font-size: 0.5rem;
+  position: absolute;
+  bottom: 2.3rem;
 }
 @media  screen and (max-width: 768px) {
   .buttons{
