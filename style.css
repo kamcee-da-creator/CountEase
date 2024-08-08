@@ -103,7 +103,9 @@ body {
 .round.blue {
   background: #4b03a4;
 }
-
+footer{
+  text-align: center;
+}
 @media  screen and (max-width: 768px) {
   .buttons{
     margin-bottom: 10px;
